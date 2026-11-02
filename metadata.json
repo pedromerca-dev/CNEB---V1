@@ -1,0 +1,8 @@
+{
+  "name": "CNEB Planificador Curricular Perú",
+  "description": "Sistema inteligente de generación y exportación PDF de Planificaciones Curriculares Anuales (PCA), Unidades Didácticas y Sesiones de Aprendizaje alineado al Currículo Nacional de la Educación Básica (CNEB - Minedu Perú).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
